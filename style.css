@@ -23,3 +23,7 @@ body {
     background-color: yellow;
     color: black
 }
+.image {
+    width: 300px;
+    height: auto;
+}
