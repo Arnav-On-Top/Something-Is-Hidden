@@ -1,0 +1,25 @@
+body {
+    background-color: orange;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+.grid {
+    width: 330px;
+    margin: auto;
+}
+.tile {
+    width: 167;
+    height: 100px;
+    background-color: gray;
+    display: incline-block;
+    margin: 5px;
+    line-height: 100px;
+    font-size: 30px;
+    color: transparent;
+    background: linear-gradient(to right, yellow, yellowgreen);
+}
+.tile:hover {
+    background-color: yellow;
+    color: black
+}
